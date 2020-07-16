@@ -1,0 +1,7 @@
+* bbp-formulas
+  :PROPERTIES:
+  :CUSTOM_ID: bbp-formulas
+  :END:
+
+Calculate digits with Bailey-Borwein-Plouffe formulas from experimental
+mathematics.
